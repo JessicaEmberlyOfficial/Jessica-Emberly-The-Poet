@@ -8,4 +8,4 @@ Jessica Emberly is an american poet from Kansas. Jessica uses her poetry as an e
 Jessica uses her poetry as a way to express her thoughts, and depression.
 
 ## Website
-[Jessica Emberly Art]()
+[Jessica Emberly Peotry](https://jessicaemberlyofficial.github.io/Jessica-Emberly-The-Poet/)
