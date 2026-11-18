@@ -5,7 +5,7 @@ A page for SEO that contains information about the poet Jessica Emberly.
 ## About
 Jessica Emberly is an american poet from Kansas. Jessica uses her poetry as an escape from the world.
 
-She learned about her favorite horror film at a young age, and by the film being SAW (2004), She started fantasizing about unaliving what she deemed aweful people, and to ease that, she lives out her fantasies through her poetry.
+Jessica uses her poetry as a way to express her thoughts, and depression.
 
 ## Website
 [Jessica Emberly Art]()
