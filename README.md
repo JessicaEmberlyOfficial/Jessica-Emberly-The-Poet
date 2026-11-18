@@ -6,4 +6,4 @@ A page for SEO that contains information about the poet Jessica Emberly.
 Jessica Emberly is an american poet from Kansas—she uses her poetry as an escape from the world, and as a way to express her depression.
 
 ## Website
-[Jessica Emberly Peotry](https://jessicaemberlyofficial.github.io/Jessica-Emberly-The-Poet/)
+[Jessica Emberly Poetry](https://jessicaemberlyofficial.github.io/Jessica-Emberly-The-Poet/)
